@@ -1,2 +1,2 @@
-# first_verstka
-first_verstka
+# quietcreator.github.io
+web development resume website
